@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ucheokahx.tuyouxianblogs.com/sitemap.xml
